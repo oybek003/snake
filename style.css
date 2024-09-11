@@ -1,0 +1,201 @@
+.main{
+    border: 5px solid red;
+    width: 1000px;
+    height: 700px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box1{
+    width: 200px;
+    height: 200px;
+    border: 3px solid blue;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: left;
+}
+
+.box2{
+    width: 200px;
+    height: 200px;
+    border: 3px solid blue;
+    background-color: blueviolet;
+}
+
+.box3{
+    width: 200px;
+    height: 200px;
+    border: 3px solid blue;
+    background-color: blueviolet;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box4{
+    width: 200px;
+    height: 200px;
+    border: 3px solid blue;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box5{
+    width: 200px;
+    height: 200px;
+    border: 3px solid blue;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: left;
+}
+
+.box6{
+    width: 200px;
+    height: 200px;
+    border: 3px solid blue;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: right;
+}
+
+.box7{
+    width: 200px;
+    height: 200px;
+    border: 3px solid blue;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+}
+
+.box8{
+    width: 200px;
+    height: 200px;
+    border: 3px solid blue;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box9{
+    width: 200px;
+    height: 200px;
+    border: 3px solid blue;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: left;
+}
+
+.box10{
+    width: 200px;
+    height: 200px;
+    border: 3px solid blue;
+    background-color: blueviolet;
+    display: flex;
+    align-items: end;
+}
+
+.box11{
+    width: 200px;
+    height: 200px;
+    border: 3px solid blue;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+}
+
+.box12{
+    width: 200px;
+    height: 200px;
+    border: 3px solid blue;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.child1{
+    border: 1px solid red;
+    background-color: orange;
+    width: 40px;
+    height:40px;
+}
+
+.child2{
+    border: 1px solid red;
+    background-color: orange;
+    width:40px;
+    height:40px;
+}
+
+.child3{
+    border: 1px solid red;
+    background-color: orange;
+    width: 40px;
+    height:40px;
+}
+
+.child4{
+    border: 1px solid red;
+    background-color: orange;
+    width:40px;
+    height:40px;
+}
+
+.child5{
+    border: 1px solid red;
+    background-color: orange;
+    width: 40px;
+    height:40px;
+}
+
+.child6{
+    border: 1px solid red;
+    background-color: orange;
+    width:40px;
+    height:40px;
+}
+
+.child7{
+    border: 1px solid red;
+    background-color: orange;
+    width:40px;
+    height:40px;
+}
+
+.child8{
+    border: 1px solid red;
+    background-color: orange;
+    width:40px;
+    height:40px;
+}
+
+.child9{
+    border: 1px solid red;
+    background-color: orange;
+    width:40px;
+    height:40px;
+}
+
+.child10{
+    border: 1px solid red;
+    background-color: orange;
+    width:40px;
+    height:40px;
+}
+
+.child11{
+    border: 1px solid red;
+    background-color: orange;
+    width:40px;
+    height:40px;
+}
+
+.child12{
+    border: 1px solid red;
+    background-color: orange;
+    width:40px;
+    height:40px;
+}
